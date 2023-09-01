@@ -1,1 +1,1 @@
-adding new README to Shell repo
+adding new README to shell repo
