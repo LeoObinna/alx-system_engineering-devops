@@ -1,0 +1,4 @@
+# Here is the sshh client system-wide config file.
+Host *
+	passwordAuthhentication no
+	IdentifyFile ~/ssh/school
